@@ -1,2 +1,2 @@
-#Climate Change mod for Minecraft using FabricMC
-#[WIP]
+# Climate Change mod for Minecraft using FabricMC
+# [WIP]
